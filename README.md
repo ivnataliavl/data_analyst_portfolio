@@ -7,6 +7,7 @@
 
 - [Анализ базы данных авиаперевозок](https://github.com/ivnataliavl/data_analyst_portfolio/tree/main/SQL_airlines_bookings) - учебный проект на курсе Нетология, “SQL и получение данных”. 
 - [Создание аналитической базы данных для агентства недвижимости](https://github.com/ivnataliavl/data_analyst_portfolio/tree/main/SQL_real_estate_db). 
+- [Тестовое задание](https://docs.google.com/document/d/1RaVbk-jli59oyKWLCOsnoXY2pXp7pAYHAnPGKjEpEG0/edit?usp=sharing) - базовые запросы для получения, удаления и изменения информации в базе данных
 
 **Python (pandas)**
  
